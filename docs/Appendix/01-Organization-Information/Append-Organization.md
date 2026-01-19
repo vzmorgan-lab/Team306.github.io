@@ -38,7 +38,7 @@ Our team will communicate in a respectful, supportive, and professional manner w
 | Terry Williams |  Messenger                              |    Gmail                             |                                |
 | Keith Payne |                                |                                 |                                |
 | Charlie Klotz |                                |                                 |                                |
-| Vanessa Morgan |                                |                                 |                                |
+| Vanessa Morgan |           Text Message                     |               Email                  |                                |
 
 ### Communication Procedures
 
@@ -76,6 +76,6 @@ Our team realizes that difference of opinion is an inevitable and valuable part 
 These signatures confirm that the team members agree to what is written above
 
 * Terry Williams
-*
+* Vanessa Morgan
 *
 *
